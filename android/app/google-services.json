@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692176876117",
+    "project_id": "iuml-membership",
+    "storage_bucket": "iuml-membership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692176876117:android:cf789a684f7665fc9a5adc",
+        "android_client_info": {
+          "package_name": "com.spine.iuml_membership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692176876117-cr5lparikj1t45l3745op819pmpv04ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKdO7YeabIoVdOciJC1f_XjyYaH8tmo20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692176876117-cr5lparikj1t45l3745op819pmpv04ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
